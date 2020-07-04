@@ -2,6 +2,6 @@ package sample;
 
 public class CoolFeature {
     void coolFunction(){
-        System.out.println("cool function");
+        System.out.println("updated cool function");
     }
 }
