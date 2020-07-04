@@ -8,4 +8,8 @@ public class CoolFeature {
     void actionFromMasterBranch(){
         System.out.println("action from master branch");
     }
+
+    void actionFromConflictBranch(){
+        System.out.println("action from conflict branch");
+    }
 }
